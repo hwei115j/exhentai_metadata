@@ -1,7 +1,6 @@
-# exhentai_metadata 
+# exhentai_metadata
 
-基於[Noromon/exmetacrawler](https://github.com/Noromon/exmetacrawler)的成果上自己經過修改後的爬蟲抓下來的exhental metadata 
+ExHentai metadata collected using a modified crawler based on [Noromon/exmetacrawler](https://github.com/Noromon/exmetacrawler).
 
-- gdata.json 為RAW json 包含所有欄位
-
-- ex.db [ex_viewer](https://github.com/hwei115j/ex_viewer)使用的sqlite db
+- **gdata.json**: RAW JSON file containing all metadata fields.
+- **ex.db**: SQLite database formatted for use with [ex_viewer](https://github.com/hwei115j/ex_viewer).
